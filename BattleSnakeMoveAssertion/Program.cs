@@ -122,7 +122,7 @@ namespace BattleSnakeMoveAssertion
 
                 processedFileCount++;
             }
-
+            
             Console.WriteLine("\nDone processing " + processedFileCount + " move assertion files.\nPASS: " + passCount + "\nFAIL: " + failCount +
                               "\nMove request failures: " + _errorCount + " (maximum allowed is " + MaxAllowedErrors + ")");
         }
