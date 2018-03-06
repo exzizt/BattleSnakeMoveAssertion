@@ -1,5 +1,5 @@
 # BattleSnakeMoveAssertion
-Console app built in .NET Core 2.0 to assert a snake's moves for each world JSON file in a given directory. Runs on Windows, Max, and Linux.<br />
+Console app built in .NET Core 2.0 to assert a snake's moves for each world JSON file in a given directory. Runs on Windows, Mac, and Linux.<br />
 <br />
 <b>Requirements</b>: .NET Core 2.0 and command line.<br />
 <br />
