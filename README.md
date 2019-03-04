@@ -17,5 +17,3 @@ This means you want your snake to move UP instead of going DOWN.
 <b>Example 2</b><br />
 ```left-right_up_x.move```
 This means you want your snake to go LEFT or RIGHT instead of going UP.
-<br />
-I hope this program is of some use to you.
