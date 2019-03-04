@@ -1,12 +1,9 @@
 ﻿using Newtonsoft.Json;
 
-namespace BattleSnakeMoveAssertion
+namespace BattleSnakeMoveAssertion.Models
 {
     internal sealed class Point
     {
-        [JsonProperty(PropertyName = "object")]
-        internal readonly string Object = "point";
-
         [JsonProperty(PropertyName = "x")]
         internal readonly int X;
 
