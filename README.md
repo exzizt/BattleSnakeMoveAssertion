@@ -11,9 +11,9 @@ This is a simple console app built using .NET Core that is used to assert that a
 <b>Move assertion filename format</b><br />
 ```<desired direction(s) separated by ->_<bad direction your snake moved>_<anything (e.g., a GUID)>.json```<br />
 <b>Example 1</b><br />
-```up_down_d8edf99a-21s-4326b-915b-d457eb49af6b.move```<br />
+```up_down_d8edf99a-21s-4326b-915b-d457eb49af6b.json```<br />
 This means you want your snake to move UP instead of going DOWN.
 <br />
 <b>Example 2</b><br />
-```left-right_up_x.move```<br />
+```left-right_up_x.json```<br />
 This means you want your snake to go LEFT or RIGHT instead of going UP.
